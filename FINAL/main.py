@@ -2,8 +2,7 @@ import Generador_Reglas as G
 import Algoritmos as A
 import Codificacion as C
 import FNC as F
-#import DPLL as D
-import DPLLj as D
+import DPLL as D
 import Gran_grafico as GF
 import sys
 
